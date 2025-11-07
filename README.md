@@ -14,4 +14,4 @@ This project provides a minimal HTTP registry server that mimics a subset of npm
 ## Quick start
 1. Install:
 ```bash
-npm install
+npm install langen
